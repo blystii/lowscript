@@ -136,7 +136,7 @@ Type `lowscript` in the terminal, that starts the LowScript terminal inside your
 To exit the LowScript terminal, run this command:
 
 ```
-> *EXIT
+> sys.exit()
 ```
 
 #
